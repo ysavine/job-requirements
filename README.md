@@ -1,2 +1,2 @@
 # job-requirements2
-DAML Project Spring 2024
+Duke Applied Machine Learning Group Spring 2024 Project
